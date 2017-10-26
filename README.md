@@ -1,4 +1,4 @@
-**Do NOT treat the issue tracker like a chat. Do NOT post new questions. Do NOT post non-bugs. You are NOT the only user. I will NOT personally debug your INCOMPETENCE.**
+**Do NOT treat the issue tracker like a chat. Do NOT post new questions. Do NOT post non-bugs. You are NOT the only user. I will NOT personally debug your INCOMPETENCE. Build errors are NOT bugs. Do NOT post build errors of any kind.**
 
 <div align="center"><img src="misc/images/logo.png"/></div>
 
